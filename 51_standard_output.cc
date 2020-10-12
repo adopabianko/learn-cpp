@@ -1,0 +1,11 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+  char str[] = "Hello C++";
+
+  cout << "Values of str is : " << str << endl;
+
+  return 0;
+}
