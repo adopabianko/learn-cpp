@@ -16,5 +16,5 @@ int main()
 
   cout << g;
 
-  return 0
+  return 0;
 }
